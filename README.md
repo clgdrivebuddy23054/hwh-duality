@@ -1,6 +1,8 @@
 # 🚀 Team The9coders – HackWithHyderabad
 **Problem statement:** Duality AI's Space Station Challenge: Safety Object Detection #2  
 
+**Can check actual Presentation at: (https://drive.google.com/drive/folders/1Dkd62GMIg3qaDdwZuaVhjTnSW2DQfdoX?usp=sharing)**
+
 ## 👥 Team Members
 - **Shanmuka Sai Prabhath** (Team Lead)  
 - Sohail  
